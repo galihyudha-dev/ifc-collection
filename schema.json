@@ -1,0 +1,239 @@
+{
+  "id": "customFromIfcDocument",
+  "classes": {
+    "merged": {
+      "properties": {
+        "allplanAttributesUnit": {
+          "name": "AllplanAttributes_Unit",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesType": {
+          "name": "AllplanAttributes_Type",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesStationBegin": {
+          "name": "AllplanAttributes_Station Begin",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "allplanAttributesPlannedStartDate": {
+          "name": "AllplanAttributes_Planned Start Date",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesConstructionPhase": {
+          "name": "AllplanAttributes_Construction Phase",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesPlannedFinishDate": {
+          "name": "AllplanAttributes_Planned Finish Date",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesWBSID": {
+          "name": "AllplanAttributes_WBS ID",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesMaterialcode": {
+          "name": "AllplanAttributes_Material code",
+          "type": "STRING",
+          "noData": ""
+        },
+        "expressId": {
+          "name": "Express ID",
+          "type": "SCALAR",
+          "componentType": "UINT32",
+          "noData": 0
+        },
+        "allplanAttributesIfcID": {
+          "name": "AllplanAttributes_Ifc ID",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesPluginname": {
+          "name": "AllplanAttributes_Plugin_name",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesScheduleID": {
+          "name": "AllplanAttributes_Schedule ID",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesV8": {
+          "name": "AllplanAttributes_V8",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "railingCommonHeightIFC": {
+          "name": "RailingCommon_Height_IFC",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "objectType": {
+          "name": "Object Type",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesComponent": {
+          "name": "AllplanAttributes_Component",
+          "type": "STRING",
+          "noData": ""
+        },
+        "globalId": {
+          "name": "GlobalId",
+          "type": "STRING",
+          "noData": ""
+        },
+        "psetRailingCommonStatus": {
+          "name": "Pset_RailingCommon_Status",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesStructuralGroup": {
+          "name": "AllplanAttributes_Structural Group",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesMaterial": {
+          "name": "AllplanAttributes_Material",
+          "type": "STRING",
+          "noData": ""
+        },
+        "railingCommonDiameterIFC": {
+          "name": "RailingCommon_Diameter_IFC",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "representation": {
+          "name": "Representation",
+          "type": "SCALAR",
+          "componentType": "UINT32",
+          "noData": 0
+        },
+        "objectPlacement": {
+          "name": "ObjectPlacement",
+          "type": "SCALAR",
+          "componentType": "UINT32",
+          "noData": 0
+        },
+        "name_1": {
+          "name": "Name",
+          "type": "STRING",
+          "noData": ""
+        },
+        "psetManufacturerTypeInformationManufacturer": {
+          "name": "Pset_ManufacturerTypeInformation_Manufacturer",
+          "type": "STRING",
+          "noData": ""
+        },
+        "ownerHistory": {
+          "name": "OwnerHistory",
+          "type": "SCALAR",
+          "componentType": "UINT32",
+          "noData": 0
+        },
+        "allplanAttributesLength": {
+          "name": "AllplanAttributes_Length",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "allplanAttributesV7": {
+          "name": "AllplanAttributes_V7",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "allplanAttributesPluginobjectname": {
+          "name": "AllplanAttributes_Plugin_object_name",
+          "type": "STRING",
+          "noData": ""
+        },
+        "name": {
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesName": {
+          "name": "AllplanAttributes_Name",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesAttributesetobject": {
+          "name": "AllplanAttributes_Attribute set object",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesAllrightCompID": {
+          "name": "AllplanAttributes_Allright_Comp_ID",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesStructuralUnit": {
+          "name": "AllplanAttributes_Structural Unit",
+          "type": "SCALAR",
+          "componentType": "UINT32",
+          "noData": 0
+        },
+        "allplanAttributesV9": {
+          "name": "AllplanAttributes_V9",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "allplanAttributesObjectname": {
+          "name": "AllplanAttributes_Object_name",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesVolumeBIM": {
+          "name": "AllplanAttributes_Volume BIM",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "classId": {
+          "name": "Class ID",
+          "type": "SCALAR",
+          "componentType": "UINT32",
+          "noData": 0
+        },
+        "psetRailingCommonIsExternal": {
+          "name": "Pset_RailingCommon_IsExternal",
+          "type": "STRING",
+          "noData": ""
+        },
+        "className": {
+          "name": "Class Name",
+          "type": "STRING",
+          "noData": ""
+        },
+        "allplanAttributesV6": {
+          "name": "AllplanAttributes_V6",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "allplanAttributesStationEnd": {
+          "name": "AllplanAttributes_Station End",
+          "type": "SCALAR",
+          "componentType": "FLOAT32",
+          "noData": 0.0
+        },
+        "allplanAttributesCalculationmode": {
+          "name": "AllplanAttributes_Calculation mode",
+          "type": "STRING",
+          "noData": ""
+        }
+      }
+    }
+  }
+}
